@@ -1,7 +1,7 @@
 ---
 layout: default
 title: MIT Notes
-permalink: /notes/
+permalink: /
 ---
 
 # [My LaTeX Package](https://tristanchaang.github.io/2024/05/29/mypackage.html)
