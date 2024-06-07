@@ -3,4 +3,6 @@
 
 @import "{{ site.theme }}";
 
-background-color: lime;
+* {
+  background-color: lime;
+}
