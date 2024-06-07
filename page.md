@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Real Analysis"
 permalink: /notes/real_analysis
 ---
