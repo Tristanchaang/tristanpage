@@ -3,4 +3,6 @@
 
 @import "{{ site.theme }}";
 
-$background-color: azure !default;
+. {
+  background-color: azure;
+}
